@@ -3,8 +3,9 @@ using CLI;
 using CLI.Application;
 using CLI.Domain.Information;
 
-var service = new InformationService();
 var log = new LogService();
+var service = new InformationService(log);
+
 
 var app = new App(service,log);
 app.Run();

@@ -2,8 +2,13 @@
 {
     internal class InformationService
     {
-        LogService log = new LogService();  
-        public void ReadUserFullname()
+        public LogService log;
+
+        public InformationService(LogService logService)
+        {
+            log = logService;
+        }
+   /*    public void ReadUserFullname()
         {
             Console.WriteLine("What's your name?");
             string name = Console.ReadLine()!;
@@ -11,32 +16,30 @@
             Console.ReadLine();
             log.LogInformation(name, dateTime);
            
+        }*/
+
+        public string ReadUserFullname()
+        {
+            Console.WriteLine("What's your name?");
+            return Console.ReadLine()!;
         }
 
-        public void ReadOccupation()
+         public string ReadOccupation()
         {
-          Console.WriteLine("What's your profession?");
-          string occupation = Console.ReadLine()!;
-          string dateTime = DateTime.Now.ToString();
-          log.LogInformation(occupation, dateTime);
-        
+            Console.WriteLine("What's your profession?");
+            return Console.ReadLine()!;
         }
 
-        public void ReadBirthDate()
+        public string ReadBirthDate()
         {
-          Console.WriteLine("What's your birth date?");
-          string birthDate = Console.ReadLine()!;
-          string dateTime = DateTime.Now.ToString();
-          log.LogInformation(birthDate, dateTime);
+            Console.WriteLine("What's your birth date?");
+            return Console.ReadLine()!;
         }
 
-        public void ReadHobbies()
+        public string ReadHobbies()
         {
-          Console.WriteLine("What's your Hobbies?");
-          string hobbies = Console.ReadLine()!;
-          string dateTime = DateTime.Now.ToString();
-          log.LogInformation(hobbies, dateTime);
-
+            Console.WriteLine("What's your Hobbies?");
+            return Console.ReadLine()!;
         }
     }
 }

@@ -7,7 +7,7 @@ namespace CLI.Application
         private const int SLEEPTIME = 2 * 1000;
 
         private readonly InformationService _informationService;
-        private readonly LogService _logService;
+        public  LogService _logService;
 
         public App(InformationService informationService, LogService logService)
         {
@@ -18,7 +18,7 @@ namespace CLI.Application
         {
             try
             {
-                LogService.StartLog();
+                _logService.StartLog();
                 // logging of application start would be called here
 
                 DrawMenu();
@@ -28,19 +28,25 @@ namespace CLI.Application
                     switch (option)
                     {
                         case 1:
-                            _informationService.ReadUserFullname();
+                            var name = _informationService.ReadUserFullname();                 
+                            _logService.LogInformation(name);
+                          
                             // logging of the read user fullname operation would be called here
                             break;
                         case 2:
-                            _informationService.ReadOccupation();
+                            var ocupation = _informationService.ReadOccupation();
+                            _logService.LogInformation(ocupation);
+
                             // logging of the read occupation operation would be called here
                             break;
                         case 3:
-                            _informationService.ReadBirthDate();
+                           var birthDate =  _informationService.ReadBirthDate();
+                            _logService.LogInformation(birthDate);
                             // logging of the read birth date operation would be called here
                             break;
                         case 4:
-                            _informationService.ReadHobbies();
+                            var hobbies = _informationService.ReadHobbies();
+                            _logService.LogInformation(hobbies);
                             // logging of the read hobbies operation would be called here
                             break;
                         case 5:
@@ -52,10 +58,11 @@ namespace CLI.Application
                 }
                 Exit();
                 // logging of application exit would be called here
-                LogService.EndLog();
+                _logService.EndLog();
             }
             catch (Exception ex)
             {
+                _logService.LogInformation(ex.Message);
                 // logging of application error would be called here
             }
 
@@ -71,7 +78,7 @@ namespace CLI.Application
             Console.WriteLine();
             Console.WriteLine("Enter your option: ");
             Console.WriteLine("1. Enter full name");
-            Console.WriteLine("2. Enter occupation");
+            Console.WriteLine("2. Enter profession");
             Console.WriteLine("3. Enter birth date");
             Console.WriteLine("4. Enter hobbies");
             Console.WriteLine("5. Show operation logs");
