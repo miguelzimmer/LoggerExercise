@@ -1,0 +1,116 @@
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.exe
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.deps.json
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.runtimeconfig.json
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.dll
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.pdb
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.csproj.AssemblyReference.cache
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.AssemblyInfoInputs.cache
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.AssemblyInfo.cs
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.csproj.CoreCompileInputs.cache
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.dll
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/refint/CLI.dll
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.pdb
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.genruntimeconfig.cache
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/ref/CLI.dll
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.Infrastructure.dll
+C:/Users/allan/source/repos/Logger/CLI/bin/Debug/net6.0/CLI.Infrastructure.pdb
+C:/Users/allan/source/repos/Logger/CLI/obj/Debug/net6.0/CLI.csproj.CopyComplete
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.csproj.AssemblyReference.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.AssemblyInfoInputs.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.AssemblyInfo.cs
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.csproj.CoreCompileInputs.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/refint/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.pdb
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/bin/Debug/net6.0/CLI.exe
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/bin/Debug/net6.0/CLI.deps.json
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/bin/Debug/net6.0/CLI.runtimeconfig.json
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/bin/Debug/net6.0/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/bin/Debug/net6.0/CLI.pdb
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/CLI.genruntimeconfig.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/Logger/CLI/obj/Debug/net6.0/ref/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/bin/Debug/net6.0/CLI.exe
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/bin/Debug/net6.0/CLI.deps.json
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/bin/Debug/net6.0/CLI.runtimeconfig.json
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/bin/Debug/net6.0/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/bin/Debug/net6.0/CLI.pdb
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.AssemblyInfoInputs.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.AssemblyInfo.cs
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.csproj.CoreCompileInputs.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/refint/CLI.dll
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.pdb
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/CLI.genruntimeconfig.cache
+C:/Users/allan/OneDrive - REMOTA TECNOLOGIA EM COMUNICACAO LTDA/Gestão equipe/Recrutamento/Exercício Logger/LoggerExercise/CLI/obj/Debug/net6.0/ref/CLI.dll
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/CLI
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/CLI.deps.json
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/CLI.runtimeconfig.json
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/CLI.dll
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/ref/CLI.dll
+/home/miguel/Downloads/LoggerExercise/CLI/bin/Debug/net6.0/CLI.pdb
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.csproj.AssemblyReference.cache
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.AssemblyInfoInputs.cache
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.AssemblyInfo.cs
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.csproj.CoreCompileInputs.cache
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.dll
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/ref/CLI.dll
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.pdb
+/home/miguel/Downloads/LoggerExercise/CLI/obj/Debug/net6.0/CLI.genruntimeconfig.cache
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.exe
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.deps.json
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.runtimeconfig.json
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.pdb
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.AssemblyInfo.cs
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\refint\CLI.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.pdb
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.genruntimeconfig.cache
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\ref\CLI.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\CLI.dll.config
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.CopyComplete
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.exe
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.dll.config
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.deps.json
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.runtimeconfig.json
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\CLI.pdb
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.AssemblyReference.cache
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.AssemblyInfoInputs.cache
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.AssemblyInfo.cs
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.csproj.CopyComplete
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\refint\CLI.dll
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.pdb
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\CLI.genruntimeconfig.cache
+C:\Users\Miguel\Documents\Estudo\LoggerExercise\CLI\obj\Debug\net6.0\ref\CLI.dll

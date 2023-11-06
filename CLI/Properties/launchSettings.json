@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CLI": {
+      "commandName": "Project",
+      "justMyCode": false
+    
+    }
+  }
+}
