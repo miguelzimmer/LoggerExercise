@@ -20,7 +20,6 @@ namespace CLI.Application
             {
                 _logService.StartLog();
                 // logging of application start would be called here
-
                 DrawMenu();
                 var option = ReadOption();
                 while (option != 6)
@@ -106,7 +105,6 @@ namespace CLI.Application
             // In here you should show the logs or point to a file with the logs
             _logService.GenerateFile();
             Console.WriteLine("Thanks for playing.");
-            Console.WriteLine("Generate File Log in C:\\Temp\\log.txt\"");
             Console.WriteLine();
             Console.ReadLine();
             Console.WriteLine("Bye!");

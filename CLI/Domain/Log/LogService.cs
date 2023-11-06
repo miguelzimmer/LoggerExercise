@@ -42,15 +42,17 @@ internal class LogService
   }
   public void GenerateFile()
 {
+
     string logPath = ConfigurationManager.AppSettings["logPath"]!;
     using (StreamWriter write = new StreamWriter(logPath,true))
     {
-        foreach (var input in list) 
+            
+            foreach (var input in list) 
         {
             write.WriteLine($"{input}");
         }
-       
-    }
+            Console.WriteLine("Generate File Log in C:\\Temp\\log.txt\"");
+        }
        
 }
 
