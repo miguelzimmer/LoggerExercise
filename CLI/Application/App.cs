@@ -18,7 +18,7 @@ namespace CLI.Application
         {
             try
             {
-                _logService.StartLog();
+                _logService.LogInformation("LOG INICIALIZADO");
                 // logging of application start would be called here
                 DrawMenu();
                 var option = ReadOption();
@@ -28,24 +28,24 @@ namespace CLI.Application
                     {
                         case 1:
                             var name = _informationService.ReadUserFullname();                 
-                            _logService.LogInformation(name);
+                            _logService.LogInformation($"Voce digitou: {name}");
                           
                             // logging of the read user fullname operation would be called here
                             break;
                         case 2:
                             var ocupation = _informationService.ReadOccupation();
-                            _logService.LogInformation(ocupation);
+                            _logService.LogInformation($"Voce digitou: {ocupation}");
 
                             // logging of the read occupation operation would be called here
                             break;
                         case 3:
                            var birthDate =  _informationService.ReadBirthDate();
-                            _logService.LogInformation(birthDate);
+                            _logService.LogInformation($"Voce digitou: {birthDate}");
                             // logging of the read birth date operation would be called here
                             break;
                         case 4:
                             var hobbies = _informationService.ReadHobbies();
-                            _logService.LogInformation(hobbies);
+                            _logService.LogInformation($"Voce digitou: {hobbies}");
                             // logging of the read hobbies operation would be called here
                             break;
                         case 5:
@@ -55,7 +55,7 @@ namespace CLI.Application
                     DrawMenu();
                     option = ReadOption();
                 }
-                _logService.EndLog();
+                _logService.LogInformation("LOG Finalizado");
                 Exit();
                 // logging of application exit would be called here
                 

@@ -21,17 +21,9 @@ internal class LogService
   public void LogInformation(string input) 
   {
     string dateTime = DateTime.Now.ToString();
-    list.Add($"Você digitou: {input} às: {dateTime}");
+    list.Add($"{input} às: {dateTime}");
   }
 
-  public void StartLog() 
-  {
-    list.Add($"LOG INICIADO EM {DateTime.Now}");
-  }
-  public void EndLog()
-  {
-    list.Add($"LOG FINALIZADO EM {DateTime.Now}");
-  }
   public void ListLogs() 
   {
     foreach (var inputs in list)
