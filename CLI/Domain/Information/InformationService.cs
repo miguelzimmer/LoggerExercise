@@ -2,22 +2,7 @@
 {
     internal class InformationService
     {
-        public LogService log;
-
-        public InformationService(LogService logService)
-        {
-            log = logService;
-        }
-   /*    public void ReadUserFullname()
-        {
-            Console.WriteLine("What's your name?");
-            string name = Console.ReadLine()!;
-            string dateTime = DateTime.Now.ToString();
-            Console.ReadLine();
-            log.LogInformation(name, dateTime);
-           
-        }*/
-
+    
         public string ReadUserFullname()
         {
             Console.WriteLine("What's your name?");

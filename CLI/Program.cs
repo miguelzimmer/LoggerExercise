@@ -4,7 +4,7 @@ using CLI.Application;
 using CLI.Domain.Information;
 
 var log = new LogService();
-var service = new InformationService(log);
+var service = new InformationService();
 
 
 var app = new App(service,log);

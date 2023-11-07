@@ -7,7 +7,7 @@ namespace CLI.Application
         private const int SLEEPTIME = 2 * 1000;
 
         private readonly InformationService _informationService;
-        public  LogService _logService;
+        private readonly  LogService _logService;
 
         public App(InformationService informationService, LogService logService)
         {
@@ -55,9 +55,10 @@ namespace CLI.Application
                     DrawMenu();
                     option = ReadOption();
                 }
+                _logService.EndLog();
                 Exit();
                 // logging of application exit would be called here
-                _logService.EndLog();
+                
             }
             catch (Exception ex)
             {

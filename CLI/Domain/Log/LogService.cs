@@ -41,7 +41,7 @@ internal class LogService
     Console.ReadLine();
   }
   public void GenerateFile()
-{
+  {
 
     string logPath = ConfigurationManager.AppSettings["logPath"]!;
     using (StreamWriter write = new StreamWriter(logPath,true))
@@ -54,6 +54,6 @@ internal class LogService
             Console.WriteLine("Generate File Log in C:\\Temp\\log.txt\"");
         }
        
-}
+  }
 
 }
